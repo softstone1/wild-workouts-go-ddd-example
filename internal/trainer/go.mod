@@ -16,7 +16,7 @@ require (
 	github.com/sirupsen/logrus v1.5.0
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/multierr v1.1.0
-	golang.org/x/sys v0.0.0-20211031064116-611d5d643895 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/api v0.21.0
 	google.golang.org/grpc v1.40.0
 )
